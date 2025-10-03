@@ -8,7 +8,7 @@ If we extend the ladder “down” to households and “up” to nations, the co
 
 | Stage              | Ontology (Ukb-fractal)                                                                   | Energy / Ops Interpretation        | Numbers / Examples                                             |
 | ------------------ | ---------------------------------------------------------------------------------------- | ---------------------------------- | -------------------------------------------------------------- |
-| 1. Soil (θ′)       | Raw potential (sunlight, coal seams, wind, data scatter)                                 | Background variance                | ~170,000 TW sunlight hitting Earth; ~5 ZB/yr internet raw data |
+| 1. Soil (θ′)       | Raw potential (sunlight, coal seams, wind, data scatter)                                 | Background [entropy](https://pubmed.ncbi.nlm.nih.gov/1482430/)                 | ~170,000 TW sunlight hitting Earth; ~5 ZB/yr internet raw data |
 | 2. Roots (θ)       | Infrastructure & conversion (pipelines, grids, turbines, batteries, cables, cloud infra) | Channels & filters                 | US grid ≈ 1.2 TW; global subsea cables ≈ 1.4 M km              |
 | 3. Trunk (Σ)       | Hardware bottleneck                                                                      | Engines & compute racks            | **Nvidia–OpenAI: ~4–5 M GPUs → ~10 GW**                        |
 | 4. Branches (h(t)) | Duration / throughput                                                                    | Sustained draw, operations in time | 10 GW → ~240 GWh/day ≈ 87 TWh/yr                               |
